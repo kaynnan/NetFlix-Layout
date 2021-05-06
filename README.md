@@ -8,5 +8,5 @@ Netflix Layout, using Owl Carousel 2, HTML, CSS and Javascript.
 ![Screenshot Tablet](/images/screenshots/GalaxyS9.png)
 
 ## Mobile View 
-![Screenshot Mobile](/images/screenshots/Ipad.png)
+![Screenshot Mobile](/images/screenshots/IPad.png)
 
